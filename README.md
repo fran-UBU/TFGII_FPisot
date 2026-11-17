@@ -1,5 +1,4 @@
-# Eco City Tours - Marta
-
+# Eco City Tours - fran-UBU y Marta
 ## TFG Ingeniería Informática - Fernando Pisot
 
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot)
